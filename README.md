@@ -15,7 +15,7 @@ npx hardhat node
 ```bash
 npx hardhat compile
 ```
-- after run compiling run the test command
+- after compiling run the test command
 ```bash
 npx hardhat test --network localhost
 ```
