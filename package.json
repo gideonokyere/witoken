@@ -1,0 +1,35 @@
+{
+  "name": "witoken",
+  "version": "1.0.0",
+  "description": "token use to trade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gideonokyere/witoken.git"
+  },
+  "keywords": [
+    "\"ERC20\"",
+    "\"solidity\"",
+    "\"smart",
+    "contract\""
+  ],
+  "author": "gideonokyere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gideonokyere/witoken/issues"
+  },
+  "homepage": "https://github.com/gideonokyere/witoken#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/hardhat-upgrades": "^3.0.1",
+    "dotenv": "^16.3.1",
+    "hardhat": "^2.19.4"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "@openzeppelin/contracts-upgradeable": "^5.0.1"
+  }
+}
