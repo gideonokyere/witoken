@@ -1,5 +1,5 @@
 ## witoken
-A token used to trade on wistake which is a personal project that allows you to stake your ethereum and earn interest on it.
+A token used to trade on wistake which is a personal project that allows you to stake your ether and earn interest on it.
 
 ## How to test it
 - clone the repo and cd into it.
